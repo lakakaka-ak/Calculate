@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         show_equation=new StringBuilder();
         calculate_equation=new ArrayList<>();
         //数字0-9
+        //testchange
         Button zero=findViewById(R.id.button0);
         Button one=findViewById(R.id.button1);
         Button two=findViewById(R.id.button2);
